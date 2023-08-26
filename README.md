@@ -10,6 +10,20 @@
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **jonathanghodke@gmail.com**
+  
+- <details>
+<summary>Want to hear a Javascript joke?</summary>
+<br>
+I'll callback later.
+<br><br>
+<pre>
+&lt;details&gt;
+&lt;summary&gt;How do I dropdown?&lt;&#47;summary&gt;
+&lt;br&gt;
+This is how you dropdown.
+&lt;&#47;details&gt;
+</pre>
+</details>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
