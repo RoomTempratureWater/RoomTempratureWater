@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jonathanghodke@gmail.com**
   
-- <details>
+<details>
 <summary>Want to hear a Javascript joke?</summary>
 <br>
 I'll callback later.
