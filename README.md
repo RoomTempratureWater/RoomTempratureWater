@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frostbyteop&label=Profile%20views&color=0e75b6&style=flat" alt="frostbyteop" /> </p>
 
-- 🔭 I’m currently working on [kanseimind app](https://kanseii.vercel.app/)
+- 🔭 I’m currently working on [mali](https://github.com/RoomTempratureWater/mali)
 
 - 🌱 I’m currently learning **Rust and Golang**
 
