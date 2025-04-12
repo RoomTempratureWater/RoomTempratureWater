@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working on [mali](https://github.com/RoomTempratureWater/mali)
 
-- 🌱 I’m currently learning **Rust and Golang**
-
-- 💬 Ask me about **Python**
+- 🌱 I’m currently learning **Golang**
 
 - 📫 How to reach me **jonathanghodke@gmail.com**
   
